@@ -12,30 +12,30 @@ export class AppComponent {
   }
   data: any = [{
     sid: 'S101',
-    sname: 'Ankita',
-    s_sal: 5000,
+    sname: 'Ankita Rajbhar',
+    s_sal: 89764,
     age:21
     },{
     sid: 'S102',
-    sname: 'jyoti',
-    s_sal: 5000,
+    sname: 'Jyoti Choudhary',
+    s_sal: 76437,
     age:21
     },{
       sid: 'S103',
-      sname: 'khushnuma',
-    s_sal: 5000,
+      sname: 'Khushnuma parveen',
+    s_sal: 66762,
     age:21
     },
     {
       sid:'S104',
-      sname:'manasi',
-      s_sal:5000,
+      sname:'Manasi Khankari',
+      s_sal:67889,
       age:21
     },
     {
       sid:'S105',
-      sname:'snehal',
-      s_sal: 5000,
+      sname:'Snehal Kumari',
+      s_sal: 76467,
       age:22
 
     }
